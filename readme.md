@@ -7,4 +7,4 @@
 
 ## 拷贝lib到/usr/lib 或是设置环境变量
 ## cd lib目录
-sudo cp libqrcode.so /usr/lib 
+## sudo cp libqrcode.so /usr/lib 
