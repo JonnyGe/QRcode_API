@@ -1,9 +1,10 @@
 /src
 	you can use make to generate lqrcode
+
 /samples       
 	1 tell you how to use lqrcode
 	2 ./qrtest to execute  
 
-#¿½±´libµ½/usr/lib »òÊÇÉèÖÃ»·¾³±äÁ¿
-#cd libÄ¿Â¼
+#æ‹·è´libåˆ°/usr/lib æˆ–æ˜¯è®¾ç½®ç¯å¢ƒå˜é‡
+#cd libç›®å½•
 sudo cp libqrcode.so /usr/lib 
